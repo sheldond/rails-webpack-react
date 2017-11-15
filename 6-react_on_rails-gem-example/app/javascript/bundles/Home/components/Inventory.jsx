@@ -1,21 +1,10 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-// import AddFishForm from './AddFishForm';
+import React from "react"
+import PropTypes from "prop-types"
 
 class Inventory extends React.Component {
   constructor() {
     super();
     this.renderInventory = this.renderInventory.bind(this);
-    this.handleChange = this.handleChange.bind(this);
-  }
-
-  handleChange(event, key) {
-    // const fish = this.props.fishes[key];
-    // const updatedFish = {
-    //   ...fish,
-    //   [event.target.name]: event.target.value
-    // };
-    // this.props.updateFish(key, updatedFish);
   }
 
   renderInventory(key) {
@@ -46,7 +35,6 @@ class Inventory extends React.Component {
 }
 
 Inventory.propTypes = {
-  fishes: PropTypes.object.isRequired
-}
-
-export default Inventory;
+  fishes: PropTypes.object
+};
+export default Inventory
