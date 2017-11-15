@@ -9,3 +9,4 @@ This repo contains code examples corresponding to the [Ballistiq](http://ballist
 * [3-rails-new-5.1-webpack-react](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/3-rails-new-5.1-webpack-react):  `rails new --webpack=react`
 * [4-rails-webpack-react-example](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/4-rails-webpack-react-example): Render a component, pass data from the db in props
 * [5-react-rails-gem-example](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/5-react-rails-gem-example): Using the react-rails gem, render a component, pass data from the db in props
+* [6-react_on_rails-gem-example](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/6-react_on_rails-gem-example): Using the react_on_rails gem, render a component, pass data from the db in props
