@@ -4,8 +4,8 @@ This repo contains code examples corresponding to the [Ballistiq](http://ballist
 
 ## Directories
 
-* [rails-new-5.1](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/rails-new-5.1): This is what you get when you run `rails new` on Rails version 5.1
-* [rails-new-5.1-webpack](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/rails-new-5.1-webpack): `rails new --webpack`
-* [rails-new-5.1-webpack-react](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/rails-new-5.1-webpack-react):  `rails new --webpack=react`
-* [rails-webpack-react-example](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/rails-webpack-react-example): Render a component, passing data from the database through props
-* [react-rails-gem-example](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/react-rails-gem-example): Using the react-rails gem, render a component, passing data from the database through props
+* [1-rails-new-5.1](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/1-rails-new-5.1): This is what you get when you run `rails new` on Rails version 5.1
+* [2-rails-new-5.1-webpack](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/2-rails-new-5.1-webpack): `rails new --webpack`
+* [3-rails-new-5.1-webpack-react](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/3-rails-new-5.1-webpack-react):  `rails new --webpack=react`
+* [4-rails-webpack-react-example](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/4-rails-webpack-react-example): Render a component, pass data from the db in props
+* [5-react-rails-gem-example](https://github.com/sheldond/rails-yarn-webpack-react/tree/master/5-react-rails-gem-example): Using the react-rails gem, render a component, pass data from the db in props
