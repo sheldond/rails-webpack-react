@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the rendered snapshot 1`] = `
+<div>
+  <h2>
+    Fish Inventory
+  </h2>
+  <div
+    className="fish-edit"
+  >
+    <input
+      name="name"
+      onChange={[Function]}
+      placeholder="Fish Name"
+      type="text"
+      value="Pacific Halibut"
+    />
+    <input
+      name="price"
+      onChange={[Function]}
+      placeholder="Fish Price"
+      type="text"
+      value={1724}
+    />
+    <select
+      name="status"
+      onChange={[Function]}
+      placeholder="Fish Status"
+      type="text"
+      value="available"
+    >
+      <option
+        value="available"
+      >
+        Fresh!
+      </option>
+      <option
+        value="unavailable"
+      >
+        Sold Out!
+      </option>
+    </select>
+    <textarea
+      name="desc"
+      onChange={[Function]}
+      placeholder="Fish Desc"
+      type="text"
+      value="Everyones favorite white fish. We will cut it to the size you need and ship it."
+    />
+    <input
+      name="image"
+      onChange={[Function]}
+      placeholder="Fish Image"
+      type="text"
+      value="https://i.istockimg.com/file_thumbview_approve/36248396/5/stock-photo-36248396-blackened-cajun-sea-bass.jpg"
+    />
+  </div>
+</div>
+`;
