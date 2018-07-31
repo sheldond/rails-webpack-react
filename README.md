@@ -1,3 +1,5 @@
+⚠️ __The code in this repo is not maintained and contains known security vulnerabilities__ ⚠️
+
 # Rails + Yarn + Webpack + React
 
 This repo contains code examples corresponding to the [Ballistiq](http://ballistiq.com) [lunch & learn with the same name](https://docs.google.com/presentation/d/1wSo9B0uMrZBa78NGMD33BY9hwy63QVfDAyXUxF6-M4M).
